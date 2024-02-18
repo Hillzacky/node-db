@@ -4,7 +4,8 @@
   "description": "Node-db is Library for using local database with json for nodejs.",
   "main": "src/index.js",
   "scripts": {
-    "test": "node test/test.js"
+    "start": "node src/index.js",
+    "test": "node test/index.js"
   },
   "repository": {
     "type": "git",
